@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Satya Jagannadh 👨‍💻
 
-a href="https://ibb.co/gZWbn5Z"><img src="https://i.ibb.co/Mk1yXYk/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Black-Modern-Vlogger-You-Tube-Banner" border="0"></a>
+<img src="https://i.ibb.co/Mk1yXYk/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Black-Modern-Vlogger-You-Tube-Banner" border="0"></a>
 
 ## 🛡️ Senior Cyber Security Analyst | 7+ Years Experience 🛡️
 
