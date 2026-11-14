@@ -57,4 +57,4 @@ I help product teams find and fix real vulnerabilities before attackers or audit
 
 Open to application-security engagements (web, API, thick client, code review), responsible disclosure collaboration and interesting AppSec problems.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/satyadvv) or [X](https://x.com/urs_satyadvv)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/satyadvv) or [X](https://x.com/The_satyadvv)
