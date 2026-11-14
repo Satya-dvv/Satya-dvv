@@ -7,7 +7,7 @@
 📍 Hyderabad, India · 13+ years in IT, 7+ in cybersecurity · I break applications (with written permission) and write reports engineers can actually act on.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fsatyadvv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyadvv)
-[![X](https://img.shields.io/badge/X-%40urs__satyadvv-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/The_satyadvv)
+[![X](https://img.shields.io/badge/X-%40The__satyadvv-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/The_satyadvv)
 
 ---
 
