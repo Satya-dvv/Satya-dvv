@@ -1,120 +1,69 @@
-# 🎯 Satya Jagannadh
-## Senior Cybersecurity Analyst | Ethical Hacker | Security Researcher
+<img src="profile-banner.jpg" alt="" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyadvv/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:demo.cybertesting@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/cronycybersec)
+# Hi, I'm Satya Jagannadh 👋
 
----
+**Application Security Engineer & Penetration Tester — Web Apps · APIs · Thick Clients · Source Code Review**
 
-## 👨‍💻 Professional Overview
+📍 Hyderabad, India · 13+ years in IT, 7+ in cybersecurity · I break applications (with written permission) and write reports engineers can actually act on.
 
-Experienced cybersecurity professional specializing in threat detection, vulnerability assessment, and security architecture. Passionate about advancing organizational security posture through innovative solutions and proactive defense strategies.
-
-**Core Expertise:**
-- Advanced Threat Hunting & Incident Response
-- Security Information and Event Management (SIEM)
-- Penetration Testing & Vulnerability Assessment
-- Zero-Trust Architecture & Cloud Security
-- Security Operations Center (SOC) Management
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fsatyadvv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyadvv)
+[![X](https://img.shields.io/badge/X-%40urs__satyadvv-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/urs_satyadvv)
 
 ---
 
-## 🏆 Notable Achievements
+## 🎯 What I do
 
-🎖️ **"Innovation in Cybersecurity"** - Tech Excellence Awards 2022  
-⭐ **"Top Security Researcher"** - Bug Bounty Programs  
-🔒 Successfully identified and responsibly disclosed critical vulnerabilities across major platforms  
-📊 Implemented enterprise-scale security monitoring solutions reducing incident response time by 60%
+I help product teams find and fix real vulnerabilities before attackers or auditors do:
 
----
-
-## 🛠️ Technical Skills
-
-**Security Tools & Platforms:**
-```
-SIEM: Splunk, QRadar, ELK Stack
-Penetration Testing: Metasploit, Burp Suite, Nmap, Wireshark
-Cloud Security: AWS Security Hub, Azure Sentinel
-Threat Intelligence: MITRE ATT&CK, OSINT Tools
-Forensics: Volatility, Autopsy, FTK
-```
-
-**Programming & Scripting:**
-```
-Python | Bash | PowerShell | JavaScript | SQL
-```
-
-**Frameworks & Standards:**
-```
-NIST Cybersecurity Framework | ISO 27001 | OWASP Top 10 | CIS Controls
-```
+| Area | What I look for |
+| --- | --- |
+| **Web Application Pentesting** | Auth & session flaws, broken access control (IDOR), business-logic abuse, injection, XSS, SSRF — mapped to OWASP Top 10 / WSTG |
+| **API Security Testing** | BOLA/BFLA, mass assignment, JWT & OAuth weaknesses, rate-limit and enumeration issues — OWASP API Security Top 10 |
+| **Thick Client Testing** | Traffic interception, insecure local storage, hard-coded secrets, DLL hijacking — .NET / Java / Electron |
+| **Secure Source Code Review** | Manual review + SAST (Semgrep, CodeQL, SonarQube) for injection, authZ, crypto misuse and secrets in code |
 
 ---
 
-## 📜 Certifications
+## 🚀 Projects
 
-- 🎓 **Offensive Security Certified Professional (OSCP)**
-- 🎓 **Certified Ethical Hacker (CEH)**
-- 🎓 **CompTIA Security+**
-- 🎓 **AWS Certified Security - Specialty**
-- 🎓 **GIAC Security Essentials (GSEC)**
-
----
-
-## 💼 Key Projects
-
-### 🔐 Enterprise Threat Detection Platform
-Designed and deployed automated threat detection system integrating SIEM with threat intelligence feeds, reducing false positives by 45%.
-
-### 🌐 Cloud Security Audit Framework
-Developed comprehensive security assessment framework for cloud infrastructure, adopted by multiple organizations.
-
-### 🛡️ Open-Source Security Tools
-Active contributor to security automation tools and vulnerability scanning frameworks on GitHub.
-
-### 🎯 Bug Bounty Achievements
-Identified critical vulnerabilities in web applications and APIs, earning recognition from major bug bounty platforms.
+| Project | What it is |
+| --- | --- |
+| [**XSS Sentinel**](https://github.com/Satya-dvv/xss-sentinel) | Burp Suite extension (Java) that crawls web applications and detects XSS automatically. Submitted to the PortSwigger BApp Store — [extension-portal #387](https://github.com/PortSwigger/extension-portal/issues/387) |
+| [**Web App VAPT Guide**](https://github.com/Satya-dvv/webapp-vapt-guide) | Practical OWASP-based web pentesting playbook with Burp Suite examples and report templates |
+| **Satya Sec Bot** | Telegram bot (Python) for CVE/CWE lookups and security news — demo on request |
 
 ---
 
-## 📚 Knowledge Sharing
+## 🧰 Toolbox
 
-### 📝 Technical Articles
-- [Advanced Threat Hunting Techniques](https://example.com/blog1)
-- [Zero-Trust Architecture Implementation](https://example.com/blog2)
-- [AI in Cybersecurity: Future Perspectives](https://example.com/blog3)
-
-### 🎤 Speaking Engagements
-- **BSides Delhi 2024** - "Next-Gen SIEM Strategies"
-- **OWASP Mumbai 2023** - "Web Application Security Best Practices"
-- **Security Summit 2023** - "Incident Response in Cloud Environments"
+- **Testing:** Burp Suite · OWASP ZAP · Nmap · Postman · sqlmap · ffuf · Wireshark
+- **Code review:** Semgrep · CodeQL · SonarQube · manual review
+- **Languages:** Python · Java · Bash · JavaScript · SQL
+- **Standards & frameworks:** OWASP WSTG · ASVS · API Security Top 10 · MITRE ATT&CK · CWE Top 25
 
 ---
 
-## 🤝 Professional Collaboration
+## 📚 Right now
 
-I welcome opportunities to collaborate with cybersecurity professionals and contribute to advancing security practices.
+- 🔬 Working through the PortSwigger Web Security Academy labs — sharpening advanced web/API attack chains
+- 🛠️ Improving XSS Sentinel for the BApp Store review
+- 🤝 Building an application-security testing team serving clients in the US and India
 
-**Open to:**
-- 🤖 Cybersecurity Research & Development
-- 🎯 Open Source Security Initiatives
-- 🎤 Technical Speaking & Training
-- 🏢 Security Consulting & Advisory
-- 🎓 Mentorship & Community Education
+<!-- CERTIFICATIONS: add only certifications you actually hold, each with a verification link (Credly / Credential.net). Clients and recruiters verify these. -->
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satya-dvv&show_icons=true&theme=dark&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satya-dvv&show_icons=true&rank_icon=github" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-dvv&layout=compact&hide=html" height="165" alt="Top languages"/>
+</p>
 
 ---
 
-<div align="center">
+## 🤝 Let's talk
 
-### 💡 "Security is not a product, but a process"
+Open to application-security engagements (web, API, thick client, code review), responsible disclosure collaboration and interesting AppSec problems.
 
-*Committed to continuous learning and contributing to the cybersecurity community*
-
-</div>
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/satyadvv) or [X](https://x.com/urs_satyadvv)
