@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Satya-dvv/Satya-dvv/main/profile-banner.jpg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/Satya-dvv/Satya-dvv/main/profile-banner.png" alt="" width="100%"/>
 
 # Hi, I'm Satya Jagannadh 👋
 
