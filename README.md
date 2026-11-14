@@ -53,15 +53,6 @@ I help product teams find and fix real vulnerabilities before attackers or audit
 
 ---
 
-## 📊 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Satya-dvv&show_icons=true&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-dvv&layout=compact&hide=html" height="165" alt="Top languages"/>
-</p>
-
----
-
 ## 🤝 Let's talk
 
 Open to application-security engagements (web, API, thick client, code review), responsible disclosure collaboration and interesting AppSec problems.
